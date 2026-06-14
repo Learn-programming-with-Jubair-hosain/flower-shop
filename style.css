@@ -6,3 +6,31 @@
     margin: 0 auto;
     font-family: "Lato", sans-serif;
 }
+.btn{
+   background-color: #E55473; 
+   color: #FFFFFF;
+   padding: 20px 40px;
+   border: none;
+   border-radius: 5px;
+   font-size: 20px;
+   font-weight: 700;
+}
+/********** Header Section *************/
+.header-container{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.header-content>h2{
+    color: #272727;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+.header-content>p{
+    color: #272727c0;
+    font-size: 1.20rem;
+    margin-bottom: 10px;
+}
+.header-img>img{
+    width: 100%;
+}
