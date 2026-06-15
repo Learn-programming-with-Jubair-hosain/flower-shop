@@ -36,3 +36,19 @@
 .header-img>img{
     width: 100%;
 }
+/******* Our Featured Flowers **********/
+.Our-Featured{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.Our-Featured>h3{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #272727;
+    margin-bottom: 24px;
+}
+.Our-Featured>p{
+    font-size: 1.25rem;
+    color: #272727b4;
+}
