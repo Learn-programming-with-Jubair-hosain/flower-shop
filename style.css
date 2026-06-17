@@ -99,3 +99,23 @@
     line-height: 1.25;
     margin: 20px;
 }
+/******** Instagram ******/
+.instagram{
+    display: flex;
+    text-align: center;
+}
+.instagram h3{
+    font-size: 3rem;
+    color: #272727;
+}
+.instagram p{
+    color: #272727c0;
+    margin: 24px 0 50px 0;
+}
+
+.Instagram-flower-demo{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin-bottom: 128px;
+}
