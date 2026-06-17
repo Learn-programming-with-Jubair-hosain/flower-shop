@@ -11,4 +11,20 @@
         font-size: 25px;
         margin: 20px 0 20px 0;
     }
+
+    .Our-Featured{
+        margin-top: 100px;
+    }
+
+    .flower1-container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-bottom: 100px;
+    }
+
+    .oder-container{
+        display: grid;
+       grid-template-columns: repeat(2, 1fr); 
+       gap: 70px;
+    }
 }

@@ -77,4 +77,25 @@
     color: #272727c7;
     margin-top: 20px;
 }
-
+/********** Hot Deal ! Sale Up To 25% Off *********/
+.discount{
+    display: flex;
+    gap: 180px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.deal h3{
+    font-size: 3rem;
+    color: #272727;
+}
+.deal h3 span{
+    color: #E55473;
+}
+.deal p{
+    color: #272727b9;
+    line-height: 1.25;
+    margin: 20px;
+}
