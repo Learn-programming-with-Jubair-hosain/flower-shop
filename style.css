@@ -119,3 +119,27 @@
     gap: 24px;
     margin-bottom: 128px;
 }
+/******** Get The Latest Deals ******/
+.Latest-Deals{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    min-height: 449px;
+    background-image: url('./Flower Asset/Rectangle 9.png');
+}
+.Deals-content h2{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #272727;
+}
+.Deals-content p{
+    font-weight: 700;
+    color: #272727ab;
+    margin: 20px;
+}
+.Deals-content input{
+   width: 700px;
+   height: 64px;
+   border: 1px solid #2727273a;
+}
