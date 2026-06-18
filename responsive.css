@@ -35,4 +35,17 @@
     .Instagram-flower-demo{
         grid-template-columns: repeat(1, 1fr);
     }
+     
+
+    .Deals-content h2{
+        font-size: 2rem;
+    }
+    .Deals-content input{
+        width: 500px;
+        margin-bottom: 20px;
+    }
+    footer{
+        min-height: 300px;
+        margin-top: 80px;
+    }
 }
